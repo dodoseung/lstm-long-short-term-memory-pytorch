@@ -1,0 +1,21 @@
+# Data parameters
+data:
+  seed: 777
+  data_path: '~/aesop.txt/'
+
+# Model parameters
+model:
+
+
+# Training parameters
+train:
+  epochs: 100
+  lr: 0.001
+
+# Save
+save:
+  model_name: 'aesop'
+
+# Other parameters
+others:
+  log_period: 10
